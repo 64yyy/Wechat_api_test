@@ -1,0 +1,3 @@
+使用的 token: 102_18vJye69GEvyndDYx_vupvDOyiP4kWMztjeygHohbAfiBP-9qoFIjwFLkzOZ-rn_KuZy9hvCPFZ2wW8KedQBL02OjVxNsGn2Z3Qmn2qAykuSosXSq3TJM1lpZtILAGfAFAPEK
+实际请求 URL: https://api.weixin.qq.com/cgi-bin/tags/create?access_token=102_18vJye69GEvyndDYx_vupvDOyiP4kWMztjeygHohbAfiBP-9qoFIjwFLkzOZ-rn_KuZy9hvCPFZ2wW8KedQBL02OjVxNsGn2Z3Qmn2qAykuSosXSq3TJM1lpZtILAGfAFAPEK
+响应内容: {"errcode":45157,"errmsg":"invalid tag name hint: [lHmbh.Sik-t7Yk6] rid: 69c39b94-0ebb1b0b-10075d4a"}

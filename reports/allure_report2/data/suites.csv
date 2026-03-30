@@ -1,0 +1,31 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+数据驱动测试：测试创建标签的各种情况
+","2063","test_create_tag_data_driven[\u666e\u901a\u6807\u7b7e-True]","testcases","2026-03-29","passed","2026-03-29","","test_tag","",""
+"
+数据驱动测试：测试创建标签的各种情况
+","518","test_create_tag_data_driven[-False]","testcases","2026-03-29","passed","2026-03-29","","test_tag","",""
+"
+:param appid:
+:param secret:
+:param expect_code:
+:return:
+","1192","test_get_access_token[wx028c04977867ec3d-a02fbc4182c2856166fe1281bfd905c8-0]","testcases","2026-03-29","passed","2026-03-29","","access_token","",""
+"
+数据驱动测试：测试创建标签的各种情况
+","599","test_create_tag_data_driven[AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-False]","testcases","2026-03-29","passed","2026-03-29","","test_tag","",""
+"
+:param appid:
+:param secret:
+:param expect_code:
+:return:
+","355","test_get_access_token[error-a02fbc4182c2856166fe1281bfd905c8-40013]","testcases","2026-03-29","passed","2026-03-29","","access_token","",""
+"
+数据驱动测试：测试创建标签的各种情况
+","1172","test_create_tag_data_driven[\u91cd\u590d\u6d4b\u8bd5-True]","testcases","2026-03-29","passed","2026-03-29","","test_tag","",""
+"
+:param appid:
+:param secret:
+:param expect_code:
+:return:
+","459","test_get_access_token[wx028c04977867ec3d-error-40125]","testcases","2026-03-29","passed","2026-03-29","","access_token","",""
