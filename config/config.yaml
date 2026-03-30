@@ -1,3 +1,0 @@
-base_url: "https://api.weixin.qq.com" #只写公开域名，其他接口加上相对路径
-appid: "wx028c04977867ec3d"
-secret: "a02fbc4182c2856166fe1281bfd905c8"
