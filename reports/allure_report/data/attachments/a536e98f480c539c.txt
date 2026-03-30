@@ -1,6 +1,0 @@
-获取到的 token: 102_srjOkcohxHvhG1EiESUwHJi5gWE9D89UiQo364XsZoTyZoH8t2ocyW-XSgH_5F9--1ZiHNHO8sIb5qWPRAtG8Ng5In4JsVcHTkXbCmNUpCQVDNo-Vk3NNurFpcwGAOeABATNB
-请求 URL（不含参数）: https://api.weixin.qq.com/cgi-bin/tags/create
-实际请求的完整 URL: https://api.weixin.qq.com/cgi-bin/tags/create?access_token=102_srjOkcohxHvhG1EiESUwHJi5gWE9D89UiQo364XsZoTyZoH8t2ocyW-XSgH_5F9--1ZiHNHO8sIb5qWPRAtG8Ng5In4JsVcHTkXbCmNUpCQVDNo-Vk3NNurFpcwGAOeABATNB
-请求体: b'{"name": "tag_1774427756"}'
-响应状态码: 200
-响应内容: {"errcode":45157,"errmsg":"invalid tag name hint: [rHmb3GYJk-7aPA6] rid: 69c39e6d-3b66f551-6dbf0f7c"}
