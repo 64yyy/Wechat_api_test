@@ -1,0 +1,7 @@
+tag_name,should_succeed
+test_normal,True
+,False
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,False
+test_dup,True
+test<script>,True
+tag with space,True
